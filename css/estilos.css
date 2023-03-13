@@ -39,3 +39,9 @@ body {
 #post p {
   color: #434242;
 }
+
+#footer {
+  background: #777;
+  color: white;
+  text-align: center;
+}
