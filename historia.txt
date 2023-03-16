@@ -4,4 +4,6 @@ Loki tiene 6 años y nació en Chile.
 
 Mi nombre es Loki, soy un perrito que contribuye en este proyecto open source y soy el mejor perrito del mundo. 
 
+Master 1
+
 Mañana nos enfocaremos en lo que le gusta hacer. 
